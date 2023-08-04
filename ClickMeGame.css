@@ -1,0 +1,32 @@
+div{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeCATMffZOuUZAP4ModDTkgDFn4eAQgFx5w&usqp=CAU);
+    width:1320px;
+    height:700px;
+    background-repeat: no-repeat;
+  position:fixed;
+    background-size: 1320px 700px;
+}
+img{
+    height:250px;
+    width:250px;
+    margin:auto;
+    margin-top:50px;
+
+}
+#time{
+    margin-top: 100px;
+    color:green
+}
+#count{
+  color:red
+}
+#msg{
+    color:blue
+}
+button{
+    color:rgb(1, 1, 16);
+    background-color: green;
+    border-color: green;
+    width:80px;
+    height:40px;
+}
